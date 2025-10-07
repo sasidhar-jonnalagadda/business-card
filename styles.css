@@ -1,0 +1,22 @@
+.business-card {
+  margin: 20px auto;
+  padding: 20px;
+
+  display: flex;
+  justify-content: center;
+
+  text-align: center;
+  gap: 20px;
+
+  background: #add8e6;
+}
+
+.headshot-picture {
+  width: 150px;
+}
+
+.personal-info {
+  width: auto;
+  padding: 20px;
+  border: 2px solid black;
+}
